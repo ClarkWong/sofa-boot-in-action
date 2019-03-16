@@ -7,11 +7,11 @@
         <artifactId>sofaboot-dependencies</artifactId>
         <version>3.1.3</version>
     </parent>
+
     <groupId>com.github.xuyuanwang</groupId>
     <artifactId>sofa-boot-in-action</artifactId>
     <version>1.0.0</version>
     <name>sofa-boot-in-action</name>
-    <description>Demo project for Spring Boot</description>
 
     <properties>
         <java.version>1.8</java.version>
@@ -56,5 +56,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
